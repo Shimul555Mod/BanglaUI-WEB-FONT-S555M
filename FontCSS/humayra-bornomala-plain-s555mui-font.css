@@ -1,0 +1,19 @@
+/* Humayra Bornomala Plain S555MUI Font Face */
+@font-face {
+  font-family: 'Humayra Bornomala Plain S555MUI';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url(../FontS/Humayra-Bornomala-Plain-S555MUI-Font/humayra-bornomala-plain-s555mui.woff) format("woff");
+  unicode-range: U+0964-0965, U+0980-09FE, U+1CF7, U+1CFA, U+200C-200D, U+20B9,
+    U+25CC;
+}
+@font-face {
+  font-family: 'Humayra Bornomala Plain Italic S555MUI';
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url(../FontS/Humayra-Bornomala-Plain-S555MUI-Font/humayra-bornomala-plain-Italic-s555mui.ttf");
+  unicode-range: U+0964-0965, U+0980-09FE, U+1CF7, U+1CFA, U+200C-200D, U+20B9,
+    U+25CC;
+}
